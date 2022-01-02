@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://miaojiaojiao.art</id>
     <title>无意义建筑工作室</title>
-    <updated>2021-12-15T15:47:31.425Z</updated>
+    <updated>2022-01-02T15:36:07.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://miaojiaojiao.art"/>
     <link rel="self" href="https://miaojiaojiao.art/atom.xml"/>
     <subtitle>内向 直觉 思考 知觉</subtitle>
     <logo>https://miaojiaojiao.art/images/avatar.png</logo>
     <icon>https://miaojiaojiao.art/favicon.ico</icon>
-    <rights>All rights reserved 2021, 无意义建筑工作室</rights>
+    <rights>All rights reserved 2022, 无意义建筑工作室</rights>
     <entry>
         <title type="html"><![CDATA[ ]]></title>
         <id>https://miaojiaojiao.art/post/啊/</id>
